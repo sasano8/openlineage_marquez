@@ -1,0 +1,4 @@
+requests
+openlineage-python
+pytest
+
